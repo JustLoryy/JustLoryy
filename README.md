@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Lorenzo
+- 👋 Hi, my name is Lorenzo
 - 👀 I’m interested in FullStack Web Developing
 - 🌱 I’m currently learning how to create a responsive webapp with Blazor and ASP.NET Core 6
 
